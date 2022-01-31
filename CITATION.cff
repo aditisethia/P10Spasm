@@ -1,8 +1,16 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Komarath
+    given-names: Balagopal
+  - family-names: Sethia
+    given-names: Aditi  
+title: "Spasm(P10)"
+date-released: 2022-01-31
+url: "https://github.com/aditisethia/P10Spasm"
 preferred-citation:
   type: data
-authors:
+  authors:
   - family-names: Komarath
     given-names: Balagopal
   - family-names: Sethia
