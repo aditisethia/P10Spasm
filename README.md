@@ -2,7 +2,6 @@
 The pdf file Spasm(P10) contains the graphs(except trees) that are homomorphic images of P10 and their respective matched tree decompositions. Every bag in the tree decomposition if of size at most 4, therefore, the matched tree width of any graph in Spasm(P10) is 3.
 
 Matched Treewidth <= 3 for all connected graphs with at most 9 edges:
-mtw heuristics -- 
 For any graph G,
 If tw(G) = 1, then mtw(G)=1. 
 If tw(G) = 2 and there is no X-minor in G, mtw(G) = 2. 
